@@ -140,20 +140,3 @@ public class MachinePlayer extends Player {
 	  return myScore-opponentScore;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
