@@ -1,6 +1,7 @@
+package player;
 /* Move.java  */
 
-package player;
+
 
 /**
  *  A public class for holding all the fields in a move.  This class is a

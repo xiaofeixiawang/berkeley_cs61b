@@ -60,23 +60,3 @@ public class Kruskal {
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
